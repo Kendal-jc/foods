@@ -1,0 +1,44 @@
+.etiqueta {
+    padding: 10px 20px;
+    padding-bottom: 1rem;
+    border-radius: 30px;
+    font-family: "Oswald", sans-serif;
+    font-weight: 700;
+}
+
+.level {
+    background: #E6B9E9;
+}
+
+.likes {
+    background: #BFB5B6;
+}
+
+.like-icon{
+   font-size: 30px;
+    color: red;
+}
+
+.food-time {
+    background: #B9B2E5;
+}
+
+.times {
+    font-size: 20px;
+    font-weight: 500;
+}
+
+.decoration {
+    background: #D3D0E3;
+}
+
+
+
+.ingredients {
+    font-size: 25px;
+}
+
+.title-ingredients {
+    font-size: 40px;
+    font-weight: 700;
+}

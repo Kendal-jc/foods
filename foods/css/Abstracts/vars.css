@@ -1,0 +1,26 @@
+:root {
+
+
+    /* font & weight */
+    --ff-primary: 'Oswald';
+    --fw-ligt-os: 200;
+    --fw-reg-os: 400;
+    --fw-bold-os: 700;
+
+
+    /* font & weight */
+    --ff-primary: 'roboto';
+    --fw-xbold-ro: 900;
+
+
+
+
+
+    /*colores*/
+    --clr-fondo: hsla(0, 0%, 89%);
+    --clr-rect: hsla(0, 0%, 78%);
+    --clr-font: hsla(180, 17%, 17%);
+    --clr-btn: hsla(357, 92%, 64%);
+    --clr-orange-310: hsla(34, 100%, 50%, .2);
+    --clr-tt:hsl(137, 100%, 50%);
+}

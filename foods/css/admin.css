@@ -1,0 +1,132 @@
+* {
+    margin: 0;
+    padding: 0;
+    font-family: "Oswald", sans-serif;
+}
+
+.body-admin {
+    background:#E3E2E2;
+    font-family: "Oswald", sans-serif;
+}
+
+.prueba-c{
+    background: #E3D0D0;
+}
+
+.prueba-r{
+    background: #D3D0E3;
+}
+
+.tittle-cards-admin{
+    font-size: 30px;
+    color: #243333
+}
+
+.title-admin-f {
+    font-family: 'Roboto', sans-serif;
+    font-weight: 400;
+    font-size: 20px;
+
+}
+
+.admin-page{
+    width: 100vw;
+    height: 100vh;
+}
+
+.admin-header{
+    width: 100vw;
+    height: 70px;
+    display: flex;
+    justify-content: center;
+}
+
+.mt-sect{
+    margin-top: 100px;
+}
+
+.tittle-recipe{
+    background:#F0AEB3;
+    margin: 10px;
+    border-radius: 20px;
+    text-align:center ;
+}
+
+.admin-limit{
+    width: 80vw;
+    height: 70px;
+    display: flex;
+    justify-content: center;
+    text-align: center;
+    align-items:center;
+}
+
+.h1-admin{
+    font-size: 40px;
+    text-align: center;
+    font-weight: 700;
+
+}
+
+.button{
+    width: 100px;
+    height: 50px;
+    margin-right: 8rem;
+    border-radius: 20px;
+    background: #243333;
+    color: #E3E2E2;
+}
+.button2{
+    width: 100px;
+    height: 70px;
+    border-radius: 20px;
+    background-color: #5ed660;
+}
+
+
+.admin-inputs{
+    width: 50%;
+    border-radius: 10px;
+    margin-left: 20px;
+}
+
+input{
+    
+}
+
+.input-options{
+    background: #e5e5e5;
+}
+
+.admin-inputs-h{
+    width: 100%;
+    border-radius: 10px;
+    margin-left: 10px;
+    height: 130px;
+}
+
+.admin-inputs-divs{
+    display: flex;
+    margin-bottom: 30px
+}
+
+.button-color{
+    width: 80px;
+    height: 40px;
+    border-radius: 20px;
+    background-color: #eaa84c;
+}
+
+.button-color-r{
+    width: 80px;
+    height: 40px;
+    border-radius: 20px;
+    background-color: #5ed660;
+}
+
+.button-color-a{
+    width: 80px;
+    height: 40px;
+    border-radius: 20px;
+    background-color: #da3030;
+}
